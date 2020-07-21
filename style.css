@@ -1,0 +1,170 @@
+body{
+	    font-family: 'Roboto', sans-serif;
+	    margin: 0;
+	    padding: 0;
+
+}
+
+.section-part{
+	background-image: url(img/o3.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
+
+}
+
+.section-item-1{
+	width: 40%;
+	float: left;
+	margin-left: 5%;
+	padding-left: 2%;
+}
+.section-item-1 h1{
+    font-size: 50px;
+}
+
+.section-item-1  h2{
+	font-size: 40px;
+	color: red;
+
+}
+
+.section-item-1 img{
+	width: 100%;
+}
+
+.btn-1{
+	text-decoration: none;
+	background-color: green;
+	padding: 8px 10px;
+	border-radius: 8px;
+	color: #fff;
+}
+
+.btn-1:hover{
+	background-color: orange;
+	color: #000;
+}
+
+.secand-part{
+	background-image: url("img/i4.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+
+.section-item-2{
+	width: 40%;
+	float: left;
+	margin-left: 5%;
+	padding-left: 2%;
+}
+
+.section-item-2 img{
+	width: 100%;
+}
+
+
+.section-item-2 h2{
+     font-size: 40px;
+}
+
+.btn-2{
+	text-decoration: none;
+ background-image: linear-gradient(to bottom right, red , blue);
+ color: #fff;
+ padding: 10px 20px;
+}
+
+.btn-2:hover{
+  background-image: linear-gradient(-90deg, red, blue);
+
+}
+
+.half-width{
+	width: 28%;
+	float: left;
+	margin-left: 40px;
+	padding-left: 8px;
+	margin-top: 70px;
+}
+
+.lates-area{
+	background-image: url("img/u5.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
+}
+
+.lates-area h1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 60px;
+}
+
+.fourth-part{
+	background-image: url("img/g8.png");
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position: center;
+	height: 100vh;
+}
+.box-item{
+	text-align: center;
+
+}
+
+.box-item h1{
+	font-size: 40px;
+}
+
+.box-item h2{
+	font-size: 28px;
+	margin-top: 90px;
+}
+
+.box-item h3{
+	color: #333
+}
+
+
+.box-item p{
+	font-size: 24px;
+	color: #2f3542;
+	margin-top: 80px;
+}
+
+.box-item-2{
+	text-align: center;
+    margin-top: 60%;
+	background-color: #ff4757;
+	width: 750px;
+	margin: auto;
+	padding: 45px 25px;
+	color: #fff;
+	border-radius: 8px;	
+	 
+}
+
+.fifth-part{
+	text-align: center;
+	margin-top:10%; 
+}
+
+.fifth-part p{
+	color: #333;
+	font-weight: 400px;
+}
+
+
+
+
+
+
+
+
+
+
